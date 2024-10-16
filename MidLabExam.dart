@@ -195,6 +195,7 @@ Widget _buildDrawer() {
     },
   );
 }
+}
 
 // A class that represents the menu
 class Menu extends StatefulWidget {
@@ -494,4 +495,5 @@ Widget _buildGetStartedButton() {
       ),
     ),
   );
+}
 }
